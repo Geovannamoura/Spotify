@@ -1,5 +1,5 @@
 Importante: 
-Sobre a "api-artists" a api fake para funcionar a pesquisa e retornar o artita: 
+Sobre a "api-artists" a api fake para funcionar a pesquisa e retornar o artista: 
 
 Deve ser instalado a versão mais antiga do JSON, então: 
 npm install -g json-server@0.17.4
